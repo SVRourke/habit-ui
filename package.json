@@ -1,0 +1,20 @@
+{
+  "name": "habit-ui",
+  "version": "0.0.1",
+  "description": "habit tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SVRourke/habit-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SVRourke/habit-ui/issues"
+  },
+  "homepage": "https://github.com/SVRourke/habit-ui#readme"
+}
